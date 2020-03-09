@@ -1,6 +1,6 @@
 {
 	"PACKAGE": "hexyl",
-	"VERSION": "0.6.0",
+	"VERSION": "0.7.0",
 	"GH_USER": "sharkdp",
 	"URL": "https://github.com/${GH_USER}/${PACKAGE}/archive/v${VERSION}.tar.gz",
 	"SIGN_KEY": "EFD591B218E19AE3376D80D14F9E050D1DFFBB86",
